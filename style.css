@@ -50,7 +50,7 @@ img:hover {
    border-radius: 15px;
    box-shadow: 10px 10px 5px 5px #3c1f00;
    transition: transform 1s linear;
-   transform: translateX(510px);
+   transform: translateX(960px);
    margin: 5px;
 }
 h1 {
